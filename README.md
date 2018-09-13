@@ -23,5 +23,4 @@ params.mu: The momentum for SGD optimization. default: 0.9
 params.alpha the step length in SGD optimization. default: 0.1  
 
 ## The flowchart of MDAEP for SISR
-![](figs/repeat-MDAEP.tif)
-
+ ![repeat-MDAEP](/figs/repeat-MDAEP.tif)
