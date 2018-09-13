@@ -21,3 +21,6 @@ params.num_iter: Specifies number of iterations.
 params.gamma: Indicates the relative weight between the data term and the prior. default: 28.5  
 params.mu: The momentum for SGD optimization. default: 0.9  
 params.alpha the step length in SGD optimization. default: 0.1  
+
+## The flowchart of MDAEP for SISR
+![](./figs/repeat-MDAEP.tif)
