@@ -1,6 +1,6 @@
 %% The Code is created based on the method described in the following paper: 
 % Learning Multi-Denoising Autoencoding Priors for Image Super-Resolution, Journal of Visual Communication and Image Representation, 2018.
-% Author: Y. Wang, H. Zhou, Q. Liu, Y. Wang. 
+% Author: Y. Wang, Q. Liu, H. Zhou, Y. Wang. 
 % Date : 09/2018 
 % Version : 1.0 
 % The code and the algorithm are for non-comercial use only. 
